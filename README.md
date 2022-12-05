@@ -38,3 +38,9 @@ Adrian flushed out the Admin/Librarian page which means updating the menus to di
 Bolu built the Notify user feature. This uses an open-source library to send an unreplyable email to the user’s email that states when a book is rented. In the future it will check the database constantly, and send an email whe a book is due back, or when the book they are waiting for is available to borrow. This will be great for making sure users return books on time, and to keep the wait time for the books short. (2)
 
 Keizo and Adrian started writing the GUI that allows the program to run in a window and take alot nicer input then the console did previously.
+
+
+Keizo: 
+Several Updates on the system.
+Firstly, since some of the GUI (BookList, BookSearch, EditBook, AddBook, UPdate Users, Delete Users) was not working, I rewrite the code to make it fully functioning. 
+Regarding the new features, I added book request and view request feature. Book request is basically for users to request a new book to the library by entering ISBN number of the book. The system will read the ISBN number and search the book title, author, summary description with public library api. In the end, the system add the book to the request table in the database. View book feature allows librarians to view a list of requested books.
