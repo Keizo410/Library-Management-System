@@ -1,7 +1,7 @@
 # COSC310_SoftwareEngineering
 This is team 11's software development project. Its a Librarian Assisstant program that will allow users to browse or take out the books of a library with their phones (or anything with access to a web browser).
 
-Users will need to login in order to have access to the database of the library's books. If they don't have an account, they can create one. Once logged in, they can search through said database to find specific titles or authors, and they can either take out a book, or join the book's waitlist if it's borrowed already. Taking out a book will tell the user they have borrowed it, and how long they have to return the book. Joining the waitlist will tell the user how many people are in front of them on the list, as well as a rough estimate of when the book should be available to rent. Librarians will have an upgraded user account that will allow them to edit the library's stock, edit other user's passwords, and delete users all together, in addition to the regular user functions. User's should be able to see their info, which waitlists they are on, and also which books they have borrowed or are due back on their account page.
+Users will need to login in order to have access to the database of the library's books. If they don't have an account, they can create one. Once logged in, they can search through said database to find specific titles or authors, and they can either take out a book, or join the book's waitlist if it's borrowed already. Taking out a book will tell the user they have borrowed it, and how long they have to return the book. Joining the waitlist will tell the user how many people are in front of them on the list, as well as a rough estimate of when the book should be available to rent. Librarians will have an upgraded user account that will allow them to edit the library's stock, edit other user's passwords, and delete users all together, in addition to the regular user functions. User's should be able to see their info, which waitlists they are on, and also which books they have borrowed or are due back on their account page. 
 
 Run the 'mainapp.java' file to run the program, and use the 'db.sql' file as the database.
 
@@ -13,13 +13,13 @@ The 'Login' Class prompts the user to login with an email and password, and chec
 
 The 'Create' Class prompts the user to create an account with an email and password, and checks to make sure the account doesn't already exist.
 
-The 'LibrarianAction' Class extends the Login class to check if the user is an admin, and then prompts the user for a choice to Add or Delete a book or Edit or Delete user's account to/in the database (ADMIN functions).
+The 'LibrarianAction' Class extends the Login class to check if the user is an admin, and then prompts the user for a choice to Add or Delete a book or Edit or Delete user's account to/in the database (ADMIN functions). 
 
 The 'LoggedIn' Class prompts the user for a choice from the main menu once they are logged in (B,S, or U).
 
 The 'Booklist' Class is used to display (or list) all the books inside the database, or the books with a specific title or author that the user searched for.
 
-The 'Book' Class is used to display all the information on a book that is in the database, and also to update its information like availability or its waitlist.
+The 'Book' Class is used to display all the information on a book that is in the database, and also to update its information like availability or its waitlist. Also, this class calls two APIs: Open Library and Twitter. With Open Library, book class allows normal users to request a new book to the library database by entering its ISBN number on Gui_RequestForm. Librarians can view the list of requests in Gui_ViewRequests. 
 
 The 'Viewbook' class is used to get the user's input after searching for a book or viewing the entire database (the input will be the id of the book the user wants to look at more closely).
 
@@ -39,9 +39,9 @@ Bolu built the Notify user feature. This uses an open-source library to send an 
 
 Keizo and Adrian started writing the GUI that allows the program to run in a window and take alot nicer input then the console did previously.
 
-
-Keizo: 
+#######################################################################################################################################################################Individual Project part:
+ 
 Several Updates on the system.
-Firstly, since some of the GUI (BookList, BookSearch, EditBook, AddBook, UPdate Users, Delete Users) was not working, I rewrite the code to make it fully functioning. 
-Regarding the new features, I added book request and view request feature. Book request is basically for users to request a new book to the library by entering ISBN number of the book. The system will read the ISBN number and search the book title, author, summary description with public library api. In the end, the system add the book to the request table in the database. View book feature allows librarians to view a list of requested books.
-Additionally, I attempt to add another feature with twitter api. In this feature, users can view other people's opinion about the specific book on our databse by tweet searching. However, twitter api requires me to have additional access right , which requires me to apply for, otherwise runtime error occurs. Still waiting for the approval. 
+Firstly, since some of the GUI (BookList, BookSearch, EditBook, AddBook, UPdate Users, Delete Users, Password Reset) was not working on GUI, I rewrite the code to make it fully functioning. Regarding the new features, I added book request and view request feature at first. Book request is basically for users to request a new book to the library by entering ISBN number of the book. The system will read the ISBN number and search the book title, author, summary description with public library api and JSON processing library. In the end, the system add the requested book to the "request" table in the database. View book feature allows librarians to view a list of requested books. Moreover, I attempted to add another feature with twitter api. In this feature, users can view other people's opinion about the specific book on our databse by tweet searching. However, twitter api requires me to have additional access right, which requires me to apply for Elevated Access, otherwise error occurs. Still waiting for the approval. I also tried to implement text recognition feature, which saves time for librarians to enter in a new book information on AddBook GUI. However, the assignemt was not asking use other than REST api, so the development was stopped at the webcam implementation. Webcam video and taking picture function is still working in Gui_BookCapture.java. 
+
+*All of the feature works on GUI sequence. Not on console prompt(mainapp.java)
