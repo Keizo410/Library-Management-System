@@ -10,10 +10,9 @@ We appreciate your interest in our project and welcome any feedback or contribut
 
 # Configuration/Installation 
 ### To run this project, you will need: 
-- MySQL Workbench
+- MySQL Workbench & MySQL Command Line Client
   - https://dev.mysql.com/downloads/workbench/
-- MySQL Command Line Client
-  - https://dev.mysql.com/downloads/shell/
+
  
 ### After installation
 
