@@ -1,4 +1,16 @@
 # Library Management System 
 
-# MySQL database, REST API (public library & Twitter)
+
+
+#Configuration - MySQL (Required)
+
+
+
+#About Junit Testing
+
+
+#About GUI system
+
+
+# REST API (public library & Twitter)
 
