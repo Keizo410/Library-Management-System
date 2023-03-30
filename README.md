@@ -14,6 +14,8 @@ We appreciate your interest in our project and welcome any feedback or contribut
   - https://dev.mysql.com/downloads/workbench/
 - MySQL Command Line Client
   - https://dev.mysql.com/downloads/shell/
+ 
+### After installation
 
 Check connection, url, password from workbench
 log in to mysql command line - password is initial+last name+student#
