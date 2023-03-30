@@ -16,13 +16,12 @@ log in to mysql command line - password is initial+last name+student#
 use database ndbt11
 
 
-# About Junit Testing
+# Usage
 
 
-# About GUI system
 
 
-# REST API (public library & Twitter)
+# Further implementation - OpenCV, Twitter API
 
 
 # Other Contributor
