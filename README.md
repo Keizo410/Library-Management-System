@@ -1,5 +1,5 @@
 # Library Management System 
-Thank you for visiting my GitHub repository for our collaborative library management system project. Our team of four created this system for a school project, and it features a MySQL database to manage library collections.
+Thank you for visiting my GitHub repository for our collaborative ___library management system___ project. Our team of four created this system for a school project, and it features a MySQL database to manage library collections.
 
 The library management system allows users to register, login, borrow, and search for books from the library's database. We also incorporated a public library REST API to enable users to search for books and make requests directly from the library.
 
