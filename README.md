@@ -1,2 +1,4 @@
-# Library Management System - MySQL database, REST API (public library)
+# Library Management System 
+
+# MySQL database, REST API (public library & Twitter)
 
