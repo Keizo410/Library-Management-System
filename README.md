@@ -2,14 +2,14 @@
 
 
 
-#Configuration - MySQL (Required)
+# Configuration - MySQL (Required)
 
 
 
-#About Junit Testing
+# About Junit Testing
 
 
-#About GUI system
+# About GUI system
 
 
 # REST API (public library & Twitter)
