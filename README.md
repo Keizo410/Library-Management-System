@@ -24,4 +24,3 @@ use database ndbt11
 # Further implementation - OpenCV, Twitter API
 
 
-# Other Contributor
