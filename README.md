@@ -9,7 +9,10 @@ We appreciate your interest in our project and welcome any feedback or contribut
 
 
 # Configuration/Installation 
-### To run this project
+### To run this project, you will need: 
+- Mysql workbench
+- Mysql command line client
+
 
 Check connection, url, password from workbench
 log in to mysql command line - password is initial+last name+student#
