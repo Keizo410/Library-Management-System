@@ -1004,9 +1004,9 @@ public class mainapp {
 	
 	public Connection dbc() throws SQLException, ClassNotFoundException{
 		Class.forName("com.mysql.cj.jdbc.Driver");
-		String url = "jdbc:mysql://localhost:3306/ndbt11";
-		String username = "root";
-		String password ="kkato41496746";
+		String url = "jdbc:mysql://localhost:3306/your database name";
+		String username = "Your user name from workbench";
+		String password ="This is your password";
 		Connection con = DriverManager.getConnection(url,username,password);
 		return con;
 	}
