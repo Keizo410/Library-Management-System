@@ -24,22 +24,25 @@ use database ndbt11
 # Usage
 
 ### Firstly, run Gui_FirstMenu.java file
-<img src="https://user-images.githubusercontent.com/90278067/228990203-380e95e0-973c-44e1-a6c8-402303bd9716.png" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/90278067/228990203-380e95e0-973c-44e1-a6c8-402303bd9716.png" width="300" height="300">
 
 
 ### Register your favarite email & password
-<img src="https://user-images.githubusercontent.com/90278067/228990544-d01e5f90-9dfd-4eb8-b047-ad340a1c8c9d.png" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/90278067/228990544-d01e5f90-9dfd-4eb8-b047-ad340a1c8c9d.png" width="300" height="300">
 - If you feel like being a librarian, check the box
+-
 
 ### Go back to the first menu, and Enter your info into the login menu
-<img src="https://user-images.githubusercontent.com/90278067/228990909-33268f37-5026-4d85-baf0-f4080b1f7f22.png" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/90278067/228990909-33268f37-5026-4d85-baf0-f4080b1f7f22.png" width="300" height="300">
+
 
 ### Choose your activity
-<img src="https://user-images.githubusercontent.com/90278067/228991028-0d4a3667-ebf2-4398-896c-c588d9cba4e8.png" width="250" height="250">
-- etc
+<img src="https://user-images.githubusercontent.com/90278067/228991028-0d4a3667-ebf2-4398-896c-c588d9cba4e8.png" width="300" height="300">
+
 
 ### Borrow your favorite HarryPotter series
-<img src="https://user-images.githubusercontent.com/90278067/228991780-70030ee2-03d9-4150-b129-6c608a1df9a3.png" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/90278067/228991780-70030ee2-03d9-4150-b129-6c608a1df9a3.png" width="300" height="300">
+
 
 ### Explore More!
 
