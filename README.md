@@ -24,6 +24,7 @@ use database ndbt11
 # Usage
 
 ### Firstly, run Gui_FirstMenu.java file
+<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/90278067/228990203-380e95e0-973c-44e1-a6c8-402303bd9716.png)" width="100" height="100">
 ![image](https://user-images.githubusercontent.com/90278067/228990203-380e95e0-973c-44e1-a6c8-402303bd9716.png = 250x250)
 
 
