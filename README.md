@@ -48,4 +48,8 @@ use database ndbt11
 
 # Further implementation - OpenCV, Twitter API
 
+# Credits
+Prelude14
+AdrianFWM
+bolu2710
 
