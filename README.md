@@ -38,6 +38,11 @@ use database ndbt11
 <img src="https://user-images.githubusercontent.com/90278067/228991028-0d4a3667-ebf2-4398-896c-c588d9cba4e8.png" width="250" height="250">
 - etc
 
+### Borrow your favorite HarryPotter series
+<img src="https://user-images.githubusercontent.com/90278067/228991780-70030ee2-03d9-4150-b129-6c608a1df9a3.png" width="250" height="250">
+
+### Explore More!
+
 # Further implementation - OpenCV, Twitter API
 
 
