@@ -1,11 +1,11 @@
 # About This Project
-### Thank you for visiting my GitHub repository for our collaborative ___library management system___ project. Our team of four created this system for a school project, and it features a MySQL database to manage library collections.
+### Thank you for visiting my GitHub repository for our collaborative ___library management system___ project. My team of four created this system for a school project, and it features a MySQL database to manage library collections.
 
-The library management system allows users to register, login, borrow, and search for books from the library's database. We also incorporated a public library REST API to enable users to search for books and make requests directly from the library.
+The library management system allows users to register, login, borrow, and search for books from the library's database. I also incorporated a public library REST API to enable users to search for books and make requests directly from the library.
 
-While we have not yet implemented OpenCV to read text with a webcam, we plan to include this feature in the future to make the book registration process even more efficient.
+While I have not yet implemented OpenCV to read text with a webcam, I am planning to include this feature in the future to make the book registration process even more efficient.
 
-We appreciate your interest in our project and welcome any feedback or contributions. Thank you for taking the time to explore our library management system!
+I appreciate your interest in our project and welcome any feedback or contributions. Thank you for taking the time to explore our library management system!
 
 
 # Configuration/Installation 
