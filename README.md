@@ -24,18 +24,18 @@ use database ndbt11
 # Usage
 
 ### Firstly, run Gui_FirstMenu.java file
-![image](https://user-images.githubusercontent.com/90278067/228990203-380e95e0-973c-44e1-a6c8-402303bd9716.png=250x250)
+![image](https://user-images.githubusercontent.com/90278067/228990203-380e95e0-973c-44e1-a6c8-402303bd9716.png = 250x250)
 
 
 ### Register your favarite email & password
-![image](https://user-images.githubusercontent.com/90278067/228990544-d01e5f90-9dfd-4eb8-b047-ad340a1c8c9d.png=250x250)
+![image](https://user-images.githubusercontent.com/90278067/228990544-d01e5f90-9dfd-4eb8-b047-ad340a1c8c9d.png = 250x250)
 - If you feel like being a librarian, check the box
 
 ### Go back to the first menu, and Enter your info into the login menu
-![image](https://user-images.githubusercontent.com/90278067/228990909-33268f37-5026-4d85-baf0-f4080b1f7f22.png=250x250)
+![image](https://user-images.githubusercontent.com/90278067/228990909-33268f37-5026-4d85-baf0-f4080b1f7f22.png = 250x250)
 
 ### Choose your activity
-![image](https://user-images.githubusercontent.com/90278067/228991028-0d4a3667-ebf2-4398-896c-c588d9cba4e8.png=250x250)
+![image](https://user-images.githubusercontent.com/90278067/228991028-0d4a3667-ebf2-4398-896c-c588d9cba4e8.png = 250x250)
 - etc
 - 
 # Further implementation - OpenCV, Twitter API
