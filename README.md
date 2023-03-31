@@ -23,7 +23,7 @@ use database ndbt11
 
 # Usage
 
-### Firstly, run Gui_FirstMenu.java file
+1. ### Firstly, run Gui_FirstMenu.java file
 <img src="https://user-images.githubusercontent.com/90278067/228990203-380e95e0-973c-44e1-a6c8-402303bd9716.png" width="300" height="300">
 
 
